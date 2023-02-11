@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Repositório no GitHub 🖐️
 
-Olá, meu nome é Pedro Lucas, um desenvolvedor iniciante buscando me desenvolver na área da tecnologia. Aqui no meu repositório, você encontrará projetos que demonstram minhas habilidades e conhecimentos.
+Olá, meu nome é Pedro Lucas, Aqui no meu repositório, você encontrará projetos que demonstram minhas habilidades e conhecimentos.
 
 ## Sobre mim
 
