@@ -9,6 +9,6 @@ Olá, meu nome é Pedro Lucas, Aqui no meu repositório, você encontrará proje
 
 ### Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolgdcm/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ATUALIZAR) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolgdcm/) 
 ##
 Obrigado por visitar meu repositório! Se tiver alguma dúvida ou quiser entrar em contato, fique à vontade para me enviar uma mensagem.
