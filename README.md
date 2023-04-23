@@ -12,3 +12,4 @@ Olá, meu nome é Pedro Lucas, Aqui no meu repositório, você encontrará proje
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolgdcm/) 
 ##
 Obrigado por visitar meu repositório! Se tiver alguma dúvida ou quiser entrar em contato, fique à vontade para me enviar uma mensagem.
+a
