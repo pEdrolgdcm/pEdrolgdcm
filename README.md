@@ -1,4 +1,4 @@
-# Bem-vindos ao meu covil de códigos no GitHub
+# Bem-vindos ao meu repositório no GitHub
 
 Olá, meu nome é Pedro Lucas, Aqui no meu repositório, você encontrará projetos que demonstram minhas habilidades e conhecimentos.
 
