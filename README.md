@@ -18,7 +18,7 @@
 
 <h2 align="left">🧠Conhecimentos:</h2>
 
-<img align="right" height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ3ZmI5aDgxeHBkdWlwcGF4NXhrd21iNmtmZnpmeWN3ZGF1a3EyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xPqDXjxJn0LFn3KmPa/giphy.gif"  />
+<img align="right" height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJseDl0cWI4dTVuaW11ejN5M2twaWR2NGhxamY3dHNtNjBlZnd6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif"/>
 
 <h3 align="left">🖥️<b>Linguagens/frameworks:</b></h3>
 
