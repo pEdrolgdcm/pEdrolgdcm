@@ -1,5 +1,11 @@
 <h1 align="left"><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindo+ao+meu+GitHub!;%F0%9F%91%BESou+o+Pedro+Lucas!+" alt="Typing SVG" /></a></b></h1>
 
+
+
+###
+
+<h2 align="left">📊GitHub status:</h2>
+
 ###
 
 <img align="right" height="300" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG03Yjh3c3YyN2tkOTM1OGRzdXFxMW0wa2xqNHAxN2RyanEybm9zZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2NXSNmbgcE21zbVyZ/giphy.gif"  />
@@ -63,6 +69,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🔥Contribuições:</h2>
 
 ###
 
