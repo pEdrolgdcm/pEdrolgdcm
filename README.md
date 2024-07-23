@@ -1,4 +1,4 @@
-<h1 align="left">Olá👋, Bem vindo ao meu GitHub!</h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindos+ao+meu+GitHub!" alt="Typing SVG" /></a></h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFxNjNjcnR0N3hkMXRzMHN2YjJndzIyc2JkNGZuemc3Z3I4czkxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pJ40BlkIwCB4sWOmOy/giphy.gif"  />
+<img align="right" height="300" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFxNjNjcnR0N3hkMXRzMHN2YjJndzIyc2JkNGZuemc3Z3I4czkxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pJ40BlkIwCB4sWOmOy/giphy.gif"  />
 
 ###
 
