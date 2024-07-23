@@ -2,7 +2,7 @@
 
 - Estudante de análise e desenvolvimento de sistemas;
 
-- Atualmente focado em desenvolvimento web;
+- Atualmente focado em desenvolvimento web.
 
 <h2 align="left">📊GitHub status:</h2>
 
