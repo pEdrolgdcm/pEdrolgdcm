@@ -1,6 +1,8 @@
 <h1 align="left"><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindo+ao+meu+GitHub!;%F0%9F%91%BESou+o+Pedro+Lucas!+" alt="Typing SVG" /></a></b></h1>
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- Estudante de análise e desenvolvimento de sistemas;
+
+- Atualmente focado em desenvolvimento web;
 
 <h2 align="left">📊GitHub status:</h2>
 
