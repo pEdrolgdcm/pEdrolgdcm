@@ -1,16 +1,8 @@
 <h1 align="left"><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindo+ao+meu+GitHub!;%F0%9F%91%BESou+o+Pedro+Lucas!+" alt="Typing SVG" /></a></b></h1>
 
-
-
-###
-
 <h2 align="left">📊GitHub status:</h2>
 
-###
-
 <img align="right" height="300" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG03Yjh3c3YyN2tkOTM1OGRzdXFxMW0wa2xqNHAxN2RyanEybm9zZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2NXSNmbgcE21zbVyZ/giphy.gif"  />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pEdrolgdcm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
@@ -18,21 +10,13 @@
   <img src="https://streak-stats.demolab.com?user=pEdrolgdcm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="left">🧠Conhecimentos:</h2>
 
-###
-
 <img align="right" height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaWVmM2lnb2ZxaTlld3Iwdmh6Yms1YjdxYmFhMG5rcmFkZnZsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif"  />
 
-###
-
 <h3 align="left">🖥️<b>Linguagens/frameworks:</b></h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -56,11 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-
 <h3 align="left">🛠️<b>Ferramentas:</b></h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -70,25 +50,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="left">🔥Contribuições:</h2>
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pEdrolgdcm/pEdrolgdcm/output/snake.svg" alt="Snake animation" />
 
-###
-
 <br clear="both">
 
 <h2 align="left">🚀<b>Redes sociais:<b></h2>
-
-###
 
 <br clear="both">
 
@@ -103,5 +75,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
