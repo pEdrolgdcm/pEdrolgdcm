@@ -10,8 +10,6 @@
   <img src="https://streak-stats.demolab.com?user=pEdrolgdcm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br clear="both">
-
 <h2 align="left">🧠Conhecimentos:</h2>
 
 <img align="right" height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaWVmM2lnb2ZxaTlld3Iwdmh6Yms1YjdxYmFhMG5rcmFkZnZsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif"  />
@@ -50,19 +48,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<br clear="both">
 
 <h2 align="left">🔥Contribuições:</h2>
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/pEdrolgdcm/pEdrolgdcm/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
+
 
 <h2 align="left">🚀<b>Redes sociais:<b></h2>
 
-<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/pedrolgdcm/" target="_blank">
