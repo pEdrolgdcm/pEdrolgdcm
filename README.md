@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F76C00&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindo+ao+meu+GitHub!;%F0%9F%91%BESou+o+Pedro+Lucas!+" alt="Typing SVG" /></a></h1>
+<h1 align="left"><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F76C00&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindo+ao+meu+GitHub!;%F0%9F%91%BESou+o+Pedro+Lucas!+" alt="Typing SVG" /></a></b></h1>
 ###
 
 <img align="right" height="300" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG03Yjh3c3YyN2tkOTM1OGRzdXFxMW0wa2xqNHAxN2RyanEybm9zZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z2NXSNmbgcE21zbVyZ/giphy.gif"  />
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">🖥️Linguagens/frameworks:</h3>
+<h3 align="left">🖥️<b>Linguagens/frameworks:</b></h3>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">🛠️Ferramentas:</h3>
+<h3 align="left">🛠️<b>Ferramentas:</b></h3>
 
 ###
 
@@ -73,7 +73,7 @@
 
 <br clear="both">
 
-<h2 align="left">🚀Redes sociais:</h2>
+<h2 align="left">🚀<b>Redes sociais:<b></h2>
 
 ###
 
