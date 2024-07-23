@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindo+ao+meu+GitHub!;%F0%9F%91%BESou+o+Pedro+Lucas!+" alt="Typing SVG" /></a></h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B%2C+bem+vindo+ao+meu+GitHub!;%F0%9F%91%BESou+o+Pedro+Lucas!+" alt="Typing SVG" /></a></h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="300" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaWVmM2lnb2ZxaTlld3Iwdmh6Yms1YjdxYmFhMG5rcmFkZnZsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif"  />
+<img align="right" height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUzaWVmM2lnb2ZxaTlld3Iwdmh6Yms1YjdxYmFhMG5rcmFkZnZsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif"  />
 
 ###
 
